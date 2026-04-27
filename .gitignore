@@ -1,0 +1,28 @@
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Dependências
+node_modules/
+
+# Ambiente (NUNCA commitar — contém chaves privadas)
+.env
+
+# Instruções internas do curso
+INSTRUCTIONS.md
+instructions*.md
+
+# Relatório compilado
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
