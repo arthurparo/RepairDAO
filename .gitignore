@@ -13,7 +13,8 @@ node_modules/
 INSTRUCTIONS.md
 instructions*.md
 
-# Relatório compilado
+# Relatório
+relatorio.tex
 *.pdf
 *.aux
 *.log
